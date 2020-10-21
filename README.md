@@ -1,6 +1,7 @@
 # KTU-S3-OOPs-with-Java
 
 Lab Questions 
+
 ➼ Addition of two numbers.
 
 ➼ Check if a number is an Armstrong number or not.
