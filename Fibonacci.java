@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Factorial {
+public class Fibonacci {
 	public static void main (String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter the value for 'n' to generate the fibonacci series: ");
