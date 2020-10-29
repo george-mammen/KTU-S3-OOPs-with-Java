@@ -1,4 +1,4 @@
-# KTU-S3-OOPs-with-Java
+# KTU S3-OOPs with Java
 
 Lab Questions 
 
