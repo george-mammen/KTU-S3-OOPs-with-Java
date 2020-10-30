@@ -20,5 +20,5 @@ Lab Questions
 
 ➼ Check if a number is prime or not.
 
-➼ Compute the sum of N natural numbers/
+➼ Compute the sum of N natural numbers.
 
