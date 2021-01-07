@@ -22,3 +22,19 @@ Lab Questions
 
 ➼ Compute the sum of N natural numbers.
 
+➼ Calculating the Area of Rectangle and Circle using Method Overloading.
+
+➼ Queue : 
+
+              ➼ Insert elements to the Queue.
+              
+              ➼ Delete elements from the Queue.
+              
+              ➼ Display the contents of the queue after each operation.
+
+➼ Compute the sum of N natural numbers.
+
+➼ Compute the sum of N natural numbers.
+
+➼ Compute the sum of N natural numbers.
+
