@@ -41,7 +41,10 @@ Lab Questions
               
               ➼ method of parent class by object of child.
                
-➼ Compute the sum of N natural numbers.
+➼ Write a program to print the area of a rectangle by creating a class named 'Area' taking the values of its
+   length and breadth as parameters of its constructor and having a method named 'returnArea' which returns
+   the area of the rectangle. Length and breadth of rectangle are entered through keyboard.
 
-➼ Compute the sum of N natural numbers.
+➼ Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units by creating
+   a class named 'Triangle' without any parameter in its constructor.
 
