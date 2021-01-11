@@ -10,7 +10,7 @@ class Childclass extends Parentclass {
     }
 }
 
-class Ans {
+class Inheritance {
     public static void main(String[] args){
         Parentclass obj1 = new Parentclass();
         Childclass obj2 = new Childclass();
