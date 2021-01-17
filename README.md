@@ -8,15 +8,23 @@ Lab Questions
 
 3. Check if the number is an Armstrong number or not.
 
-4. Compute the factorial of a number.
+4. Queue : 
 
-5. Compute the factors of a number.
+              ➼ Insert elements to the Queue.
+              
+              ➼ Delete elements from the Queue.
+              
+              ➼ Display the contents of the queue after each operation.
 
-6. Print the Fibonacci Series for a given value of n.
+5. Compute the factorial of a number.
 
-7. Print 'Hello World'.
+6. Compute the factors of a number.
 
-8. Create a class with a method that prints "This is parent class" and its subclass with another method that
+7. Print the Fibonacci Series for a given value of n.
+
+8. Print 'Hello World'.
+
+9. Create a class with a method that prints "This is parent class" and its subclass with another method that
    prints "This is child class". Now, create an object for each of the class and call
              
               ➼ method of parent class by object of parent class.
@@ -25,18 +33,9 @@ Lab Questions
               
               ➼ method of parent class by object of child.➼ Check if a number is odd or even.
 
-9. Check if a number is a odd or even. 
+10. Check if a number is a odd or even. 
 
-10. Calculating the Area of Rectangle and Circle using Method Overloading. 
-
-11. Queue : 
-
-              ➼ Insert elements to the Queue.
-              
-              ➼ Delete elements from the Queue.
-              
-              ➼ Display the contents of the queue after each operation.
-
+11. Calculating the Area of Rectangle and Circle using Method Overloading. 
 
 12. Check if a number is a palindrome or not.
 
