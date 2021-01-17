@@ -31,7 +31,7 @@ Lab Questions
               
               ➼ method of child class by object of child class.
               
-              ➼ method of parent class by object of child.➼ Check if a number is odd or even.
+              ➼ method of parent class by object of child.
 
 10. Check if a number is a odd or even. 
 
