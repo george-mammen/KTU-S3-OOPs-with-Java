@@ -4,7 +4,7 @@ Lab Questions
 
 1. Addition of two numbers.
 
-2. Write a program to print the area of a rectangle by creating a class named 'Area' taking the values of its length and breadth as parameters of its constructor and having a      method named 'returnArea' which returns the area of the rectangle. Length and breadth of rectangle are entered through keyboard.➼ Check if a number is an Armstrong number or    not.
+2. Write a program to print the area of a rectangle by creating a class named 'Area' taking the values of its length and breadth as parameters of its constructor and having a      method named 'returnArea' which returns the area of the rectangle. Length and breadth of rectangle are entered through keyboard.
 
 3. Check if the number is an Armstrong number or not.
 
